@@ -120,7 +120,7 @@ p {
     color: inherit;
 }
 .icons:hover {
-    color: #444444; transition: 0.2s all;
+    color: #F4E4EC; transition: 0.2s all;
 }
 
 /* Misc */
@@ -136,6 +136,10 @@ p {
     color: inherit;
     animation: more 2.5s;
     animation-delay: 2s;
+    transition: 0.2s all;
+}
+.more:hover {
+    color: #F4E4EC;
 }
 
 /* Animations */
